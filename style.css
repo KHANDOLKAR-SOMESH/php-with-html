@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.t{
+    background-color: rgb(237, 237, 160);
+    width: 100%;
+}
+td{
+    height: 39px;
+    width: 99px;
+}
+h2 {
+    background-color: #b7b4f7;
+    color: #1f1f1f;
+    font-size: 48px;
+}
